@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
+- Podcast mit einbinden?
+- CherryBomber verlinken / hochladen
+- WebAw (einzelne aufgaben?) : BINGO, Taschenrechner
+-->
+
 **Projekte**
 
 **Festival-App** (Uni-Projekt)
