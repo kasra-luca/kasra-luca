@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Projekte**
+
+**Festival-App** (Uni-Projekt)
+https://www.figma.com/design/55a5XXdjFn88tMNQlap8OY/FestivalApp-Design?node-id=0-1&p=f&t=DQMQzfPkgbwtVZ8T-0
+
+Figma-Projekt für eine App, die sich auf Festival-Besucher konzentriert.
