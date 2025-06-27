@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 **Projekte**
 
 **Festival-App** (Uni-Projekt)
+
+**Design**
+https://www.figma.com/board/APjvnxH0GADx2hMbk6FU6h/FestivalApp?node-id=0-1&p=f&t=jgWlxgH9wqhjG20X-0
+
+**Prototyp** 
 https://www.figma.com/design/55a5XXdjFn88tMNQlap8OY/FestivalApp-Design?node-id=0-1&p=f&t=DQMQzfPkgbwtVZ8T-0
 
 Figma-Projekt für eine App, die sich auf Festival-Besucher konzentriert.
