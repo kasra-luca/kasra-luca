@@ -24,6 +24,8 @@ I'm 28, I'm studying media informatics and I love giving things structure as wel
 | [Design](https://www.figma.com/board/APjvnxH0GADx2hMbk6FU6h/FestivalApp?node-id=0-1&p=f&t=jgWlxgH9wqhjG20X-0) | a university project: queueing at toilets & foodstands at festivals | figma, UX research |
 | [Prototyp](https://www.figma.com/design/55a5XXdjFn88tMNQlap8OY/FestivalApp-Design?node-id=0-1&p=f&t=DQMQzfPkgbwtVZ8T-0) | a university project: queueing at toilets & foodstands at festivals | figma, prototype |
 | [CherryBomber](https://github.com/kasra-luca/cherrybomber) | a university project: game in 2D with enemies, powerups und fun | C#, Raylib (library) |
+| [docx -> txt -> xlsx](https://github.com/kasra-luca/module-manual) | script reads and rewrites docx file to txt and finally writes it into prepared excel | Python |
+
 
 <!--| [Statistik-Dashboard](https://github.com/dein-user/stats-r) | evaluation of data with R and ggplot2 – focus on hypothesis testing. | R, ggplot2 | -->
 <!--| [Blood Analysis](hier Link einfügen) | a little web app to analyse your blood evaluations | HTML, JS |-->
