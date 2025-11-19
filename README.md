@@ -26,7 +26,7 @@ I’m 28, studying Media Informatics, and I love combining structure with creati
 | [FestivalApp: Prototype](https://www.figma.com/design/55a5XXdjFn88tMNQlap8OY/FestivalApp-Design?node-id=0-1&p=f&t=DQMQzfPkgbwtVZ8T-0) | queueing at toilets & foodstands at festivals | figma, prototyping |
 | [CherryBomber](https://github.com/kasra-luca/cherrybomber) | 2D game with different levels, enemies, powerups und fun | C#, Raylib (library) |
 | [Easy Calculator](https://kasra-luca.github.io/calculator/) | one-pager for simple math operations | HTML, CSS, JS |
-| [docx -> txt -> xlsx](https://github.com/kasra-luca/module-manual) | script reads and rewrites docx files to txt and finally writes it into a prepared excel | Python |
+| [DocToExcel Python Script](https://github.com/kasra-luca/module-manual) | script reads and rewrites docx files to txt and finally writes it into a prepared excel | Python |
 
 <!--| [Statistik-Dashboard](https://github.com/dein-user/stats-r) | evaluation of data with R and ggplot2 – focus on hypothesis testing. | R, ggplot2 | -->
 <!--| [Blood Analysis](hier Link einfügen) | a little web app to analyse your blood evaluations | HTML, JS |-->
