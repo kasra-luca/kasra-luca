@@ -10,12 +10,12 @@
 
 # 👋 Hi, I'm Kasra!
 
-I'm 28, I'm studying media informatics and I love giving things structure as well as I like doing creative projects.
+I’m 28, studying Media Informatics, and I love combining structure with creativity — whether that’s in code, design, or small personal projects.
 
-- 🌱 I’m looking for an **internship in software developement** for my studies, beginning **March 2026**
-- 🤔 I'm also interested in a **minijob/job as a work student**
-- ⚡ I just finished a script to write an excel file to prepare a database from docx files (python)
-- 🔭 I’m currently learning some things with Unity
+🌱 Looking for a **software development internship** starting March 2026
+🤝 Open to **working student jobs** or **mini jobs** along the way
+⚡ Just finished a Python script that converts DOCX files into a clean Excel structure for database preparation
+🎮 Currently learning Unity and exploring game development basics
 <!-- a little web app for blood analysis (TypeScript) -->
 
 ## 🚀 Projects
